@@ -4,7 +4,7 @@
 
 This project uses machine learning to predict annual salary based on years of work experience.
 
-The project includes data exploration, visualization, and a Linear Regression model for salary prediction.
+The project includes data exploration, visualization, and a linear regression model for salary prediction.
 
 ## 🛠️ Technologies Used
 
